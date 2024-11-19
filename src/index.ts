@@ -3,7 +3,7 @@ import { JSDOM } from 'jsdom';
 
 import * as fs from 'fs';
 
-import { Product } from './index.d';
+import { Product } from './types';
 
 const imagePath = 'https://cdn.adimo.co/clients/Adimo/test/';
 
